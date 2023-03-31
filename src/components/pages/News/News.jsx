@@ -14,7 +14,7 @@ import { AntDesign } from "@expo/vector-icons";
 import Btn from "../../../ui/Btn/Btn";
 import * as WebBrowser from "expo-web-browser";
 
-const key = "b7a97be2f5934749a412322c5c375847";
+const key = "YOUR_API_KEY";
 const NEWS_GET_TOPHEADLINES_URL = `https://newsapi.org/v2/top-headlines?country=fr&apiKey=${key}`;
 
 const searchURL = (query) =>
