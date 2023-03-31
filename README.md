@@ -1,5 +1,9 @@
 # React-Native NewsApp project
 
+A simple news application.
+
+Tests on Laptop and Android phone.
+
 ## Install
 
 - Node.js 
@@ -101,3 +105,20 @@ module.exports = function (api) {
 
     npx expo start -c
 
+## Screenshots of the laptop app
+
+### Sign in form
+<img src="./readme-img/react-native-signin.jpg" width="360" height="">
+
+
+### Sign up form with checks
+
+<img src="./readme-img/react-native-signup.jpg" width="360" height="">
+
+### Another with checks
+
+<img src="./readme-img/react-native-signup2.jpg" width="360" height="">
+
+### Profile page
+
+<img src="./readme-img/react-native-profile.jpg" width="360" height="">
