@@ -105,20 +105,50 @@ module.exports = function (api) {
 
     npx expo start -c
 
-## Screenshots of the laptop app
+## Screenshots of the app (laptop)
 
 ### Sign in form
 <img src="./readme-img/react-native-signin.jpg" width="360" height="">
 
+&nbsp;
 
 ### Sign up form with checks
 
 <img src="./readme-img/react-native-signup.jpg" width="360" height="">
 
-### Another with checks
+&nbsp;
 
-<img src="./readme-img/react-native-signup2.jpg" width="360" height="">
 
 ### Profile page
 
 <img src="./readme-img/react-native-profile.jpg" width="360" height="">
+
+&nbsp;
+
+### Profile page with custom avatar picture
+
+<img src="./readme-img/react-native-profile-picture.jpg" width="360" height="">
+
+&nbsp;
+
+### Navigation (Drawer)
+
+<img src="./readme-img/react-native-navbar.jpg" width="360" height="">
+
+&nbsp;
+
+### News page - headlines
+
+<img src="./readme-img/react-native-news-headlines.jpg" width="360" height="">
+
+&nbsp;
+
+### News page - search tool with key words
+
+<img src="./readme-img/react-native-news-keywords.jpg" width="360" height="">
+
+&nbsp;
+
+### News page - refresh button and web broser link
+
+<img src="./readme-img/react-native-news-refresh-btn.jpg" width="360" height="">
