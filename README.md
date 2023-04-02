@@ -105,7 +105,7 @@ module.exports = function (api) {
 
     npx expo start -c
 
-## Screenshots of the app (laptop)
+## Screenshots of the app (laptop - with Chrome browser)
 
 ### Sign in form
 <img src="./readme-img/react-native-signin.jpg" width="360" height="">
@@ -149,6 +149,6 @@ module.exports = function (api) {
 
 &nbsp;
 
-### News page - refresh button and web broser link
+### News page - refresh button and web browser link
 
 <img src="./readme-img/react-native-news-refresh-btn.jpg" width="360" height="">
